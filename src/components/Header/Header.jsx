@@ -5,6 +5,9 @@ export default class Header extends Component {
   render() {
     return (
       <div className="header-wrap">
+        <div>
+          
+        </div>
         <Link to="" className="subbar-button">ok</Link>
         <h2 className="logo">1</h2>
         <Link to="" className="login-button">2</Link>
